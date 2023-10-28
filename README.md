@@ -2,7 +2,7 @@
 
 This is a web based API weather app using JavaScript, HTML, and CSS. It uses the OpenWeatherMap API to get the weather data. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/IlKO7IZq4Bw)
 
 # Development Environment
 
